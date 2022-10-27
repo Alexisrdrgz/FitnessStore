@@ -1,0 +1,29 @@
+body {
+  font-family: "Josefin Sans";
+  background-color: #fffafb;
+}
+
+li {
+  margin-left: 15px;
+  font-size: 20px;
+}
+* {
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.hero-banner-img {
+  position: absolute;
+  right: 100px;
+  top: 0px;
+  width: 700px;
+  height: 900px;
+  margin-top: -305px;
+}
+::-webkit-scrollbar {
+  width: 0px;
+}
+footer {
+  margin-left: 0;
+}
